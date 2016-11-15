@@ -47,6 +47,7 @@ Siin on ettevõtted, mis mingil viisil kasutavad oma tegevuses andmeteadust (ja 
 * [**Nortal**](https://nortal.com/) on otsinud andmeteadlast oma Omaani kontorisse (2015).
 * [**Planet OS**](https://planetos.com/company/) tegeleb geoandmete infrastruktuuri ja analüüsiga.
 * [**Skype**](https://www.skype.com/en/)'is tehakse andmeteadust erinevates tiimides -- näiteks kõne kvaliteedi parandamiseks, aga ka pettuse vältimise ja maksete osas.
+* [**STACC**]] (http://www.stacc.ee) - Tarkvara TAK on andmeteaduse T&A organisatsioon kus koostöös ettevõtete ja Tartu Ülikooli ning TTÜ-ga arendatakse välja uusi adnmeteaduse tehnoloogiaid ja viiakse läbi andmeanalüüsi mitmes eri ärivaldkonnas. 
 * [**Starship**](https://www.starship.xyz/) kasutab masinõpet, et isesõitvaid pakiroboteid kontrollida.
 * [**Swedbank**](https://www.swedbank.ee/about/work)i Customer Value Management ärisuuna all on 6 inimesega andmeanalüüsi osakond ([vanemanalüütiku tööpakkumine](http://www.cv.ee/job-ad/swedbank-as/senior-analyst-f3194338.html) 2016).
 * [**Teleport.org**](https://teleport.org/) kasutab maakera erinevaid andmekihte, et aidata inimestel optimeerida oma elukohta.
