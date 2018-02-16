@@ -90,7 +90,7 @@ Siin on ettevõtted, mis mingil viisil kasutavad oma tegevuses andmeteadust (ja 
 * [**Funderbeam**](https://funderbeam.com/) analüüsib idufirmasid ja tegeleb andmeteadusega.
 * [**Inforegister**](https://www.inforegister.ee/) on otsinud oma tiimi andmeteadurit (2016).
 * [**Jobbatical**](https://www.jobbatical.com/) kausutab oma andmeid erinevates peamiselt soovitustega(kasutaja-tööpakkumine ja vastupidi) seotud probleemides.
-* [**Kaya Consulting**](http://kaya-consulting.com/) rakendab andmekaevet ja masinõpet ärianalüütikas.
+* [**▷igi▽ikings**](https://digivikings.com/) rakendab andmekaevet ja masinõpet ärianalüütikas.
 * [**Mooncascade**](https://mooncascade.com/)'is on kasvav andmeteaduse üksus, mis tegeleb andmeanalüüsi tellimuslahendustega.
 * [**Neste**](http://www.neste.ee/ee) on otsinud oma tiimi andmeteadlast (2016).
 * [**Nortal**](https://nortal.com/) on otsinud andmeteadlast oma Omaani kontorisse (2015).
